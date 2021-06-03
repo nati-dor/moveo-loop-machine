@@ -1,0 +1,7 @@
+Header{
+    height: 100%;
+}
+
+.Header > h1{
+    color: grey;
+}
